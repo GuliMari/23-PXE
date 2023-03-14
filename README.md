@@ -9,8 +9,16 @@
 # Выполнение:
 
 Следуя шагам в методичке, разворачиваем две виртуалки `pxeserver` и `pxeclient`.
-
+Попробуем запустить процесс установки вручную:
 
 ![Image alt](https://github.com/GuliMari/23-PXE/blob/main/Screenshot%20from%202023-03-14%2009-38-37.png)
+
+Выбираем графическую установку и указываем все необходимые компоненты настройки:
+
+![Image alt](https://github.com/GuliMari/23-PXE/blob/main/Screenshot%20from%202023-03-14%2010-27-20.png)
+
+После добавления в `ansible` автоматической установки с помощью Kickstart-файла:
+
+![Image alt](https://github.com/GuliMari/23-PXE/blob/main/Screenshot%20from%202023-03-14%2010-48-45.png)
 
     
