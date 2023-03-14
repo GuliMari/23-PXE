@@ -11,6 +11,6 @@
 Следуя шагам в методичке, разворачиваем две виртуалки `pxeserver` и `pxeclient`.
 
 
-[Image alt](https://github.com/GuliMari/23-PXE/blob/main/Screenshot%20from%202023-03-14%2009-38-37.png)
+![Image alt](https://github.com/GuliMari/23-PXE/blob/main/Screenshot%20from%202023-03-14%2009-38-37.png)
 
     
